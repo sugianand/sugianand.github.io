@@ -1,5 +1,5 @@
 # sugianand.github.io
 
-Forwards https://sugianand.github.io to my portfolio at https://sugianand.github.io/portfolio/.
+Forwards old links to my portfolio at https://sugianand.vercel.app.
 
 The site's source lives in [sugianand/portfolio](https://github.com/sugianand/portfolio).
